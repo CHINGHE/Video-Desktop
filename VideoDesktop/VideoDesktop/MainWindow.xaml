@@ -1,0 +1,62 @@
+﻿<Window x:Class="VideoDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:VideoDesktop"
+        xmlns:svgc="http://sharpvectors.codeplex.com/svgc/"
+        mc:Ignorable="d" 
+        Icon="Resources/logo.ico"
+        Title="MainWindow" 
+        AllowsTransparency="True" 
+        Background="Transparent"
+        WindowStyle="None"
+        OpacityMask="White"
+
+        Width="600px"
+        Height="375px"
+        >
+    <!--PreviewMouseLeftButtonDown="Window_PreviewMouseLeftButtonDown"
+        PreviewMouseMove="Window_PreviewMouseMove"
+        PreviewMouseLeftButtonUp="Window_PreviewMouseLeftButtonUp"-->
+    <Grid  >
+
+
+        <Image Source="pack://application:,,,/Resources/MainPage.png" MouseLeftButtonDown="Image_MouseLeftButtonDown" Stretch="Fill"   />
+        <svgc:SvgViewbox   Stretch="Fill" IsHitTestVisible="False" MessageFillBrush="AntiqueWhite"  Source="pack://application:,,,/Resources/logo2.svg" Margin="185,58,338,259"  MouseUp="SvgViewbox_MouseLeftButtonUp"  />
+        <Button x:Name="button" Content="桌面管理" Click="button_Click"  HorizontalAlignment="Left" Margin="72,263,0,0" VerticalAlignment="Top" Height="22" Width="75">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF0E87B1"/>
+                    <GradientStop Color="#FF3F9BBA" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_Capture" Content="截屏" Click="btn_Capture_Click"  HorizontalAlignment="Left" Margin="165,263,0,0" VerticalAlignment="Top" Height="22" Width="75">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF18CFC9"/>
+                    <GradientStop Color="#FF4BD7D2" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="btn_Capture_Copy" Content="录屏" Click="button_Click"  HorizontalAlignment="Center" Margin="0,263,0,0" VerticalAlignment="Top" Height="22" Width="76">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF05B8C6"/>
+                    <GradientStop Color="#FF1BD8E6" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Image x:Name="image" HorizontalAlignment="Left" Height="32" Margin="222,212,0,0" VerticalAlignment="Top" Width="24"/>
+        <Button x:Name="btn_Exit" Content="关闭" Click="btn_Exit_Click"  HorizontalAlignment="Left" Margin="360,263,0,0" VerticalAlignment="Top" Height="22" Width="76">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF05B8C6"/>
+                    <GradientStop Color="#FF1BD8E6" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

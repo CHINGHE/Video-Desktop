@@ -1,0 +1,12 @@
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\bin\Debug\SCREEN_CAPTURE.dll
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\bin\Debug\SCREEN_CAPTURE.pdb
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.csproj.AssemblyReference.cache
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.ColorBox.resources
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.FrmCapture.resources
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.FrmOut.resources
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.FrmSize.resources
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.Properties.Resources.resources
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.csproj.GenerateResource.cache
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.csproj.CoreCompileInputs.cache
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.dll
+E:\开源项目\VideoDesktop\VideoDesktop\SCREEN_CAPTURE\obj\Debug\SCREEN_CAPTURE.pdb

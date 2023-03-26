@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "by9tGYeo++1kZTb0agthZw5gLQ+wf5aImJFgykxNf8uOUp5x0YbxCplW6zdAo6UXZfnjbqslbnRIJgq6nYvyJA==",
+  "success": true,
+  "projectFilePath": "E:\\开源项目\\VideoDesktop\\VideoDesktop\\VideoDesktop\\VideoDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ching\\.nuget\\packages\\microsoft.web.webview2\\1.0.1587.40\\microsoft.web.webview2.1.0.1587.40.nupkg.sha512",
+    "C:\\Users\\ching\\.nuget\\packages\\sharpvectors.wpf\\1.8.1\\sharpvectors.wpf.1.8.1.nupkg.sha512",
+    "C:\\Users\\ching\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.22621.28\\microsoft.windows.sdk.net.ref.10.0.22621.28.nupkg.sha512"
+  ],
+  "logs": []
+}

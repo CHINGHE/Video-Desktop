@@ -1,0 +1,136 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VideoDesktop/1.0.0": {
+        "dependencies": {
+          "DS2Native": "1.0.0",
+          "Microsoft.Web.WebView2": "1.0.1587.40",
+          "SCREEN_CAPTURE": "1.0.0",
+          "SharpVectors.Wpf": "1.8.1",
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.22621.28"
+        },
+        "runtime": {
+          "VideoDesktop.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.28": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.22621.24",
+            "fileVersion": "10.0.22621.28"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.1.40881"
+          }
+        }
+      },
+      "Microsoft.Web.WebView2/1.0.1587.40": {
+        "runtime": {
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
+            "assemblyVersion": "1.0.1587.40",
+            "fileVersion": "1.0.1587.40"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
+            "assemblyVersion": "1.0.1587.40",
+            "fileVersion": "1.0.1587.40"
+          },
+          "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
+            "assemblyVersion": "1.0.1587.40",
+            "fileVersion": "1.0.1587.40"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/WebView2Loader.dll": {
+            "rid": "win-arm64",
+            "assetType": "native",
+            "fileVersion": "1.0.1587.40"
+          },
+          "runtimes/win-x64/native/WebView2Loader.dll": {
+            "rid": "win-x64",
+            "assetType": "native",
+            "fileVersion": "1.0.1587.40"
+          },
+          "runtimes/win-x86/native/WebView2Loader.dll": {
+            "rid": "win-x86",
+            "assetType": "native",
+            "fileVersion": "1.0.1587.40"
+          }
+        }
+      },
+      "SharpVectors.Wpf/1.8.1": {
+        "runtime": {
+          "lib/net6.0-windows7.0/SharpVectors.Converters.Wpf.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          },
+          "lib/net6.0-windows7.0/SharpVectors.Core.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          },
+          "lib/net6.0-windows7.0/SharpVectors.Css.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          },
+          "lib/net6.0-windows7.0/SharpVectors.Dom.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          },
+          "lib/net6.0-windows7.0/SharpVectors.Model.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          },
+          "lib/net6.0-windows7.0/SharpVectors.Rendering.Wpf.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          },
+          "lib/net6.0-windows7.0/SharpVectors.Runtime.Wpf.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          }
+        }
+      },
+      "SCREEN_CAPTURE/1.0.0": {
+        "runtime": {
+          "SCREEN_CAPTURE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VideoDesktop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.22621.28": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Web.WebView2/1.0.1587.40": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YKwX6ZdA/7P4XlE3EfGnW0evgOpOLEQ+QHbtFIG53c4CRLF5f6JwR9D4zQ06t7X8HuVSG0pVOrfA+GcjTPkAtg==",
+      "path": "microsoft.web.webview2/1.0.1587.40",
+      "hashPath": "microsoft.web.webview2.1.0.1587.40.nupkg.sha512"
+    },
+    "SharpVectors.Wpf/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2AoWUpEavXJ/W0QJdM53++U2T2HGfoKQRA+TvvJFpy8v/RLgNi7LCubIB8kgYBnYV7785G7TyCcOieBHU9YvMA==",
+      "path": "sharpvectors.wpf/1.8.1",
+      "hashPath": "sharpvectors.wpf.1.8.1.nupkg.sha512"
+    },
+    "SCREEN_CAPTURE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

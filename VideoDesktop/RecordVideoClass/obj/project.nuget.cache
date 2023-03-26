@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fu0VBzr/Cdstu+MUaTfcQWnS2GO1o5RUG9y5Gj3VuAMEfzx3+/QAm4aLzCWGvccq4feDCI/h5nsZO142yNl32A==",
+  "success": true,
+  "projectFilePath": "E:\\开源项目\\VideoDesktop\\VideoDesktop\\RecordVideoClass\\RecordVideoClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ching\\.nuget\\packages\\ffmpeg.autogen\\6.0.0\\ffmpeg.autogen.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

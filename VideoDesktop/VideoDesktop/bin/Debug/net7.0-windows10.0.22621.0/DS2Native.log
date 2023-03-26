@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(502,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(503,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+  dllmain.cpp
+  DS2Native.cpp
+  正在生成代码...
+    正在创建库 ..\VideoDesktop\bin\Debug\net7.0-windows10.0.22621.0\DS2Native.lib 和对象 ..\VideoDesktop\bin\Debug\net7.0-windows10.0.22621.0\DS2Native.exp
+  DS2Native.vcxproj -> E:\开源项目\VideoDesktop\VideoDesktop\VideoDesktop\bin\Debug\net7.0-windows10.0.22621.0\DS2Native.dll
